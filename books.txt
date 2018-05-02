@@ -1,0 +1,20 @@
+Chemistry
+guy1
+Science
+10/04/1784
+Calculus
+guy2
+Math
+4/09/1996
+Intro to Java
+guy3
+Computer Science
+6/09/1785
+Algebra
+guy2
+Math
+3/05/1993
+U.S. History
+guy1
+History
+3/07/2010
